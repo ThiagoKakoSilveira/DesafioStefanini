@@ -12,9 +12,9 @@ public class SaleMan {
 		this.salary = salary;
 	}
 	
-//	public SaleMan(){
-//		
-//	}
+	public SaleMan(){
+		
+	}
 	
 	public String getId() {
 		return id;
